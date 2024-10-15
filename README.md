@@ -1,4 +1,7 @@
 # SVG Chart Library(Flowbit)
+
+![스크린샷 2024-01-03 180730](https://github.com/ehdrbdndns/flowbit-lib/assets/60888473/ad79ffd8-f186-41b9-a944-c5fcacaebbee)
+
 ## About
 This library is a tool that utilizes SVG to draw line charts based on the data prepared by the user.
 
